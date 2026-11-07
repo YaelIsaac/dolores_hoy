@@ -48,10 +48,3 @@ Tablero de información de Dolores Hidalgo que consume 5 APIs gratuitas con un m
 
 ### Clave falsa de la NASA: solo esa tarjeta falla (403) y las otras 4 siguen bien
 ![Clave falsa](capturas/09_app_clave_falsa.jpeg)
-
-
-## Ciclo TDD y reto (opcional)
-
-Reto: cambiar temporalmente Open-Meteo a `http://` y ver qué prueba falla.
-
-![Prueba en rojo](capturas/10_prueba_roja.jpeg)
